@@ -16,7 +16,7 @@ def hopper
         }
      }
   
-  programmer_hash[:languages] = ["COBOl", "FORTRAN"]
+  
 
 end
 
